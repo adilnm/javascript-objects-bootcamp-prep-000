@@ -8,4 +8,5 @@ function removeFromPlaylist(obj, artistName){
 delete playlist.artistName
 return playlist
 }
+removeFromPlaylist(playlist, "Michael Jackson")
 console.log(playlist)
