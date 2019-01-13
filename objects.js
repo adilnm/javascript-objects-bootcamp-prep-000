@@ -1,4 +1,4 @@
-var playlist={"artist names": "man in the mirror "}
-function updatePlaylist(){
+var playlist={"Michael Jackson": "man in the mirror "}
+function updatePlaylist(obj,key,value){
   
 }
