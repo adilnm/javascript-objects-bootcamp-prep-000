@@ -8,4 +8,6 @@ delete obj.artistName
 return obj
 }
 removeFromPlaylist(playlist, "Michael")
+delete playlist."Michael"
+
 console.log(playlist)
