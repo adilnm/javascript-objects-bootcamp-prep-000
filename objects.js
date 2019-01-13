@@ -1,4 +1,4 @@
-var playlist={Michael: "man in the mirror ",}
+var playlist={Michael: "man in the mirror ",Rihanna:"umbrella"}
 function updatePlaylist(obj, artistName, songTitle){
    obj[artistName]=songTitle
    return playlist
