@@ -8,5 +8,5 @@ function removeFromPlaylist(obj, artistName){
 delete obj.artistName
 return obj
 }
-removeFromPlaylist(playlist, Michael)
+removeFromPlaylist(playlist, "Michael")
 console.log(playlist)
