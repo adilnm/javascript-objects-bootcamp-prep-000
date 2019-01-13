@@ -8,3 +8,4 @@ function removeFromPlaylist(obj, artistName){
 delete playlist.artistName
 return playlist
 }
+console.log(playlist)
